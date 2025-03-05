@@ -20,7 +20,7 @@ const About = () => {
                     </div>
                     <div className="col-lg-6 col-md-6 col-sm-12 col-12">
                         <div className="img-box">
-                            <img src="assets/images/about.jpg" alt="" className="img-fluid" style={{ height: "400px;" }}></img>
+                            <img src="assets/images/about.jpg" alt="About" className="img-fluid" style={{ height: "400px;" }}></img>
                         </div>
                     </div>
                 </div>

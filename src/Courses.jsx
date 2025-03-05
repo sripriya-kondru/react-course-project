@@ -12,7 +12,7 @@ const Courses = () => {
                 <div className="row pt-5 cards-top">
                     <div className="col-sm col-lg-4 col-md-4">
                         <div className="card" style={{ width: "18rem;" }}>
-                            <img className="card-img-top" src="/assets/images/html1.jpg" alt="Card image cap"></img>
+                            <img className="card-img-top" src="/assets/images/html1.jpg" alt="Card cap"></img>
                             <div className="card-body">
                                 <h5 className="card-title">HTML DEVELOPER</h5>
                                 <p className="card-text"><b>Skills :</b> In-depth knowledge of HTML </p>
@@ -23,7 +23,7 @@ const Courses = () => {
                     </div>
                     <div className="col-sm col-lg-4 col-md-4">
                         <div className="card" style={{ width: "18rem;" }}>
-                            <img className="card-img-top" src="/assets/images/img1.jpg" alt="Card image cap"></img>
+                            <img className="card-img-top" src="/assets/images/img1.jpg" alt="Card cap"></img>
                             <div className="card-body">
                                 <h5 className="card-title">PYTHON DEV</h5>
                                 <p className="card-text"><b>Skills :</b> Python Language, Frameworks, Libraries.</p>
@@ -34,7 +34,7 @@ const Courses = () => {
                     </div>
                     <div className="col-sm col-lg-4 col-md-4">
                         <div className="card" style={{ width: "18rem;" }}>
-                            <img className="card-img-top" src="/assets/images/img2.jpg" alt="Card image cap"></img>
+                            <img className="card-img-top" src="/assets/images/img2.jpg" alt="Card cap"></img>
                             <div className="card-body">
                                 <h5 className="card-title">WEB DEVELOPER</h5>
                                 <p className="card-text"><b>Skills :</b> Front-end coding, GIT, RWD, SEO, Unit Testing </p>
@@ -48,7 +48,7 @@ const Courses = () => {
                 <div className="row pt-5">
                     <div className="col-sm col-lg-4 col-md-4">
                         <div className="card" style={{ width: "18rem;" }}>
-                            <img className="card-img-top" src="/assets/images/img5.jpg" alt="Card image cap"></img>
+                            <img className="card-img-top" src="/assets/images/img5.jpg" alt="Card cap"></img>
                             <div className="card-body">
                                 <h5 className="card-title">DATA SCIENTIST</h5>
                                 <p className="card-text"><b>Skills :</b> ML, Deep Learning, Visualization, Large Datasets </p>
@@ -59,7 +59,7 @@ const Courses = () => {
                     </div>
                     <div className="col-sm col-lg-4 col-md-4">
                         <div className="card" style={{ width: "18rem;" }}>
-                            <img className="card-img-top" src="/assets/images/img4.jpg" alt="Card image cap"></img>
+                            <img className="card-img-top" src="/assets/images/img4.jpg" alt="Card cap"></img>
                             <div className="card-body">
                                 <h5 className="card-title">BUSINESS ANALYST</h5>
                                 <p className="card-text"><b>Skills :</b> Critical thinking, Problem-solving, Decision-making</p>
@@ -70,7 +70,7 @@ const Courses = () => {
                     </div>
                     <div className="col-sm col-lg-4 col-md-4">
                         <div className="card" style={{ width: "18rem;" }}>
-                            <img className="card-img-top" src="/assets/images/img3.jpg" alt="Card image cap"></img>
+                            <img className="card-img-top" src="/assets/images/img3.jpg" alt="Card cap"></img>
                             <div className="card-body">
                                 <h5 className="card-title">BACKEND DEVELOPER</h5>
                                 <p className="card-text"><b>Skills :</b> DSA, JS, Knowledge of Servers, APIs, PHP </p>
