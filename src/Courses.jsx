@@ -17,7 +17,7 @@ const Courses = () => {
                                 <h5 className="card-title">HTML DEVELOPER</h5>
                                 <p className="card-text"><b>Skills :</b> In-depth knowledge of HTML </p>
                                 <p className="card-text"><b>Duration :</b> 2 Months</p>
-                                <a href="#" className="btn btn-danger">FEE : 10,000/-</a>
+                                <a href="/" className="btn btn-danger">FEE : 10,000/-</a>
                             </div>
                         </div>
                     </div>
@@ -28,7 +28,7 @@ const Courses = () => {
                                 <h5 className="card-title">PYTHON DEV</h5>
                                 <p className="card-text"><b>Skills :</b> Python Language, Frameworks, Libraries.</p>
                                 <p className="card-text"><b>Duration :</b> 5 Months</p>
-                                <a href="#" className="btn btn-danger">FEE : 15,000/-</a>
+                                <a href="/" className="btn btn-danger">FEE : 15,000/-</a>
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@ const Courses = () => {
                                 <h5 className="card-title">WEB DEVELOPER</h5>
                                 <p className="card-text"><b>Skills :</b> Front-end coding, GIT, RWD, SEO, Unit Testing </p>
                                 <p className="card-text"><b>Duration :</b> 3 Months</p>
-                                <a href="#" className="btn btn-danger">FEE : 20,000/-</a>
+                                <a href="/" className="btn btn-danger">FEE : 20,000/-</a>
                             </div>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ const Courses = () => {
                                 <h5 className="card-title">DATA SCIENTIST</h5>
                                 <p className="card-text"><b>Skills :</b> ML, Deep Learning, Visualization, Large Datasets </p>
                                 <p className="card-text"><b>Duration :</b> 8 Months</p>
-                                <a href="#" className="btn btn-danger">FEE : 60,000/-</a>
+                                <a href="/" className="btn btn-danger">FEE : 60,000/-</a>
                             </div>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ const Courses = () => {
                                 <h5 className="card-title">BUSINESS ANALYST</h5>
                                 <p className="card-text"><b>Skills :</b> Critical thinking, Problem-solving, Decision-making</p>
                                 <p className="card-text"><b>Duration :</b> 6 Months</p>
-                                <a href="#" className="btn btn-danger">FEE : 40,000/-</a>
+                                <a href="/" className="btn btn-danger">FEE : 40,000/-</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ const Courses = () => {
                                 <h5 className="card-title">BACKEND DEVELOPER</h5>
                                 <p className="card-text"><b>Skills :</b> DSA, JS, Knowledge of Servers, APIs, PHP </p>
                                 <p className="card-text"><b>Duration :</b> 4 Months</p>
-                                <a href="#" className="btn btn-danger">FEE : 30,000/-</a>
+                                <a href="/" className="btn btn-danger">FEE : 30,000/-</a>
                             </div>
                         </div>
                     </div>

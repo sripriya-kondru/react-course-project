@@ -34,7 +34,7 @@ const About = () => {
                         <h4 className="sub-heading text-white">ILANDER TRAINING AND CONSULTENCY SERVICES.</h4>
                     </div>
                     <div className="col-lg-5 text-md-right col-sm-12 col-12 text-center mt-4">
-                        <a href="#" className="about-btn btn btn-primary btn-white">
+                        <a href="/" className="about-btn btn btn-primary btn-white">
                             Enroll Now
                         </a>
                     </div>
