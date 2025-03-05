@@ -1,0 +1,128 @@
+h1 {
+    color: red
+}
+
+.home-slide {
+    margin-top: 72px;
+}
+
+.about-btn {
+    border-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.about-us {
+    margin-top: 100px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 300px;
+    height: auto;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.cards-top {
+    margin-top: 50px;
+}
+
+.contact {
+    margin-top: 100px;
+}
+
+.register-card {
+    margin-top: 50px;
+}
+
+.login {
+    margin-top: 100px;
+}
+
+.form-outline :placeholder {
+    font-size: 10px;
+}
+
+form.admin-form {
+    width: 50%;
+    margin: auto;
+    padding-top: 10%;
+}
+
+footer.footer {
+    margin-top: 50px;
+    background: black;
+}
+
+.footer_nav_container {
+    height: 130px;
+}
+
+.cr {
+    margin-right: 48px;
+}
+
+.footer_nav li {
+    display: inline-block;
+    margin-right: 45px;
+}
+
+.footer_nav li:last-child {
+    margin-right: 0px;
+}
+
+.footer_nav li a,
+.cr {
+    font-size: 14px;
+    color: #51545f;
+    line-height: 30px;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.footer_nav li a:hover,
+.cr a,
+.cr i {
+    color: #fe4c50;
+}
+
+.footer_social {
+    height: 130px;
+}
+
+.footer_social ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer_social ul li:last-child {
+    margin-right: 0px;
+}
+
+.footer_social ul li a {
+    color: #51545f;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+    padding: 10px;
+}
+
+.footer_social ul li:last-child a {
+    padding-right: 0px;
+}
+
+.footer_social ul li a:hover {
+    color: #fe4c50;
+}
